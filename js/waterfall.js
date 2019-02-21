@@ -12,6 +12,7 @@
   /**
      * 内容JSON
      */
+	 /**
   var demoContent = [
     {
       demo_link: 'https://codepen.io/haoyang/pen/jrvrQq',
@@ -134,7 +135,7 @@
       description: '使用BootStrap仿照知乎做了一个静态页面。'
     }
   ];
-
+ */
   contentInit(demoContent) //内容初始化
   waitImgsLoad() //等待图片加载，并执行布局初始化
 }());
