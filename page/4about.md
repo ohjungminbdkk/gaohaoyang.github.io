@@ -14,6 +14,7 @@ type: page
 <iframe src="http://githubbadge.appspot.com/ohjungminbdkk?s=1&a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ○ 個人的に参考したり、勉強したりするブログです。
+
 ○ そのため、私の口に合う構成でしようと思っています。
 
   - 2019~　株式会社　モリシステム　プログラマ
@@ -25,10 +26,9 @@ type: page
 ## ▣ 連絡
 
 - **GitHub：**[ohjungminbdkk](https://ohjungminbdkk.github.io)
-
 - **email：**[bdkk0209@hotmail.com](bdkk0209@hotmail.com)
-
 - [Facebook](https://www.facebook.com/bdkk0209)
+
 
 ## ▣ Comments
 
