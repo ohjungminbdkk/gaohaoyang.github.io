@@ -8,9 +8,8 @@ type: page
 
 * content
 {:toc}
-
 ## オジョンミン
-
+<img src="http://ohjungminbdkk.github.io/img/about/myphoto.jpg" width="150" height="150">
 <iframe src="http://githubbadge.appspot.com/ohjungminbdkk?s=1&a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 個人的に参考したり、勉強したりするブログです。
