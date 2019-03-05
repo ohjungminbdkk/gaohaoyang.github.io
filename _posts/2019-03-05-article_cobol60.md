@@ -4,7 +4,9 @@ title:  "還暦COBOLはお荷物なのか？(日経 xTECH)"
 categories: COBOL
 tags: COBOL 日経xTECH
 ---
-[TOC]
+
+* content
+{:toc}
 
 https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/022500242/?ST=nxt_thmit_system
 
