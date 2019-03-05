@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "ヤフオクを利用しました"
-categories:　ヤフオク
-tags: ヤフオク　クラシックギータ
+title: "ヤフオクを利用しました"
+categories: ヤフオク
+tags: ヤフオク クラシックギータ
 ---
+
+[TOC]
 
 ## ヤフオクを利用して、ギータを買いましょう。
 
