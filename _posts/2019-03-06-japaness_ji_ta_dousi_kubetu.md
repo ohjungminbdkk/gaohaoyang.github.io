@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "日本語の自動詞と他動詞の区別"
-categories:　日本語
+title: "日本語の自動詞と他動詞の区別"
+categories: 日本語
 tags: 自動詞 他動詞 日本語
 ---
 * content
