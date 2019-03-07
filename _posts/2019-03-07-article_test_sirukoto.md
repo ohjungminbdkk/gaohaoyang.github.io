@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "新人プログラマー必見！？単体テスト仕様書を作成する時の注意点"
-categories:　テスト
+categories: テスト
 tags: 単体テスト テスト 新人 test
 ---
 * content
