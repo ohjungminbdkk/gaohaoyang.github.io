@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “自動運転の車いす”が描く移動の未来
+title: "“自動運転の車いす”が描く移動の未来"
 categories: 日本語
 tags: 日本語 NHK
 ---
