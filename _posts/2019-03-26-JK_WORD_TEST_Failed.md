@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Excel
+title: "단어테스트 엑셀VBA 작성 실패"
 categories: Excel
 tags: Excel
 ---
